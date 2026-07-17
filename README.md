@@ -1,7 +1,6 @@
 # Redditority Report
 
 [Install Script](https://raw.githubusercontent.com/PlecoChanDev/Redditority-Report/refs/heads/main/Script.js)
-[![Userscript](https://img.shields.io/badge/type-userscript-555555)](Script.js)
 
 Redditority Report is a Reddit userscript that checks visible users' recent activity against configurable subreddit, keyword, description, and built-in rule groups. Matching users receive inline flair so you can quickly understand why their activity was flagged.
 
