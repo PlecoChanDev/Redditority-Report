@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         Redditority Report
-// @namespace    https://github.com/EliteBallIndustries/Redditority-Report
+// @namespace    https://github.com/PlecoChanDev/Redditority-Report
 // @version      3.9.4
-// @downloadURL  https://gitlab.com/eliteballknowledgeindustries/redditority-report/-/raw/main/Script.js
-// @updateURL    https://gitlab.com/eliteballknowledgeindustries/redditority-report/-/raw/main/Script.js
+// @downloadURL  https://raw.githubusercontent.com/PlecoChanDev/Redditority-Report/refs/heads/main/Script.js
+// @updateURL    https://raw.githubusercontent.com/PlecoChanDev/Redditority-Report/refs/heads/main/Script.js
 // @description  Now you know what to blame when you see dogshit on your timeline!
 // @match        https://www.reddit.com/*
 // @match        https://old.reddit.com/*
