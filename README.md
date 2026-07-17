@@ -156,6 +156,7 @@ Click a chip to edit it, or middle-click it to remove it immediately.
 | BIDOOF'D | 2 | NSFW activity on a main account |
 | SUS | 5 | Concerning or unusual communities |
 | Cortisol UP | 5 | Ragebait and online discourse communities |
+| DANGER | 1 | High-risk platform, phrase, description, and built-in rule matches |
 
 All default groups, subreddit lists, colors, styles, and thresholds are editable.
 
