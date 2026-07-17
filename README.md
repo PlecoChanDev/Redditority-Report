@@ -4,12 +4,12 @@
 
 Redditority Report is a Reddit userscript that checks visible users' recent activity against configurable subreddit, keyword, description, and built-in rule groups. Matching users receive inline flair so you can quickly understand why their activity was flagged.
 
-![Example Reddit comment with an inline Redditority Report flair](images/AnnoyingUser.png)
+![Example Reddit comment with an inline Redditority Report flair](Images/AnnoyingUser.png)
 
 ## Installation
 
 1. Install [Tampermonkey](https://www.tampermonkey.net/) or [Violentmonkey](https://violentmonkey.github.io/).
-2. Click **[Install Redditority Report](https://gitlab.com/eliteballknowledgeindustries/redditority-report/-/raw/main/Script.js)**.
+2. Click Install Script
 3. Approve the userscript installation in your extension.
 
 > [!NOTE]
@@ -21,7 +21,7 @@ As you browse Reddit, the script fetches each visible user's recent activity in 
 
 When several groups match, the badge combines their labels and displays a multicolor activity bar. Hover over a badge to see the matched groups, post counts, and group descriptions.
 
-![Redditority Report profile breakdown](images/Breakdown.png)
+![Redditority Report profile breakdown](Images/Breakdown.png)
 
 Clicking a flair or debug badge opens the profile breakdown with:
 
@@ -33,7 +33,7 @@ Clicking a flair or debug badge opens the profile breakdown with:
 
 Glow and blink effects appear only on inline flairs and style previews. Profile breakdown flairs remain static for readability, but configured colors and accent patterns are retained.
 
-![Detailed subreddit activity breakdown](images/breakbreakdown.JPG)
+![Detailed subreddit activity breakdown](Images/breakbreakdown.JPG)
 
 Scan results are cached for 24 hours by default.
 
