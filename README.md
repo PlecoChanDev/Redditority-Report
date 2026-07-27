@@ -1,4 +1,6 @@
-![Redditority Report logo](https://raw.githubusercontent.com/PlecoChanDev/OnlyImages/refs/heads/main/RedditorityReport.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PlecoChanDev/OnlyImages/refs/heads/main/RedditorityReport.png" alt="Redditority Report logo" width="50%">
+</p>
 
 # Redditority Report
 
