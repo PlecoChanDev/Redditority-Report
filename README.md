@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PlecoChanDev/OnlyImages/refs/heads/main/RedditorityReport.png" alt="Redditority Report logo" width="50%">
+  <img src="https://raw.githubusercontent.com/PlecoChanDev/OnlyImages/refs/heads/main/RedditorityReport.png" alt="Redditority Report logo" width="360">
 </p>
 
 # Redditority Report
