@@ -34,8 +34,6 @@ The script's `@downloadURL` and `@updateURL` point to the same GitHub copy, allo
 
 Scans update live after each history page. Provisional flairs show a spinner until all requested history and profile data has finished loading.
 
-> **Screenshot placeholder:** Settings window showing the Flairs, Settings, Rules, and Documentation tabs.
-
 ## What a profile breakdown shows
 
 ![Redditority Report profile breakdown](Images/Breakdown.png)
@@ -91,8 +89,6 @@ Chip shortcuts:
 - Use its `×` control or middle-click to remove it.
 - Press <kbd>Backspace</kbd> in an empty chip input to remove the last chip.
 
-> **Screenshot placeholder:** Flair group editor showing SUBS, KEYS, DESC, RULES, MIN, and the live preview.
-
 ## Built-in rules
 
 The Rules tab lists the detectors and actions that can be attached to a group.
@@ -121,8 +117,6 @@ The tracker deduplicates items by permalink and stores their subreddit, excerpt,
 **Show All Sightings** can search usernames, subreddits, and flair names. It also provides several sort modes and a persistent custom order. Tracked users can be dragged, pinned, locked, previewed, selected, or cleared. Pinned users stay at the top; locked users cannot be removed until unlocked.
 
 Sightings are stored separately from ordinary scan results. Cache expiry and **Flush Cache** do not delete them. Remove sightings from the Sightings manager or use **Clear All Unlocked** when you explicitly want to erase them.
-
-> **Screenshot placeholder:** Show All Sightings manager with search, sorting, pinned users, and lock controls.
 
 ## Age detection
 
@@ -155,8 +149,6 @@ Use **Settings → Age detection** to:
 - test text as a post/comment, profile bio, or author flair; or
 - restore the bundled detector with **Reset Age Defaults**.
 
-> **Screenshot placeholder:** Age Evidence section alongside the age-detector configuration and test result.
-
 ## Appearance and layout
 
 Every flair group has a live preview and configurable base/text colors. The advanced style editor adds:
@@ -173,8 +165,6 @@ Glow and blink run only on inline badges and previews. Breakdown flairs remain s
 The interface includes twelve presets: Midnight, Graphite, Ocean, Aubergine, Forest, Ember, Nord, Dracula, High Contrast, Daylight, Paper, and Arctic. A custom theme can change all shared colors and choose light or dark native controls. The readability checker measures text, accent, and state colors against both panel surfaces and prevents an insufficient-contrast custom theme from being saved.
 
 Under **Settings → General → Preferences**, drag the seven breakdown sections into any order and choose which ones start collapsed. A section's current expanded state is preserved while a live scan refreshes the open panel.
-
-> **Screenshot placeholder:** Theme and advanced flair-style editors showing a pattern, separate pill, glow, and readability results.
 
 ## Settings reference
 
@@ -234,8 +224,6 @@ The Data page can copy or download JSON containing:
 - age-flair subreddit entries.
 
 Imports can merge with the draft or replace the supplied sections. Legacy group-only arrays are also accepted. Manual user assignments, scanning controls, debug preferences, breakdown layout, and saved sightings are not included in the exported JSON.
-
-> **Screenshot placeholder:** Data page showing configuration export, import, merge/replace actions, and cache controls.
 
 The complete bundled starting configuration lives inside [Script.js](Script.js); the script does not need a separate configuration file at runtime. Existing saved settings are never silently replaced when the bundled defaults change:
 
